@@ -30,7 +30,7 @@ JetBrains Academy - платформа обучения программиров
 **EN:**
 JetBrains Academy - a platform for learning web development based on projects building. Student can choose projects based on his level or/and preferences. Here I completed the Front-end Developer path. [Progile link](https://hyperskill.org/profile/37117487 "JetBrains Academy Profile")
 
-## B2 English Certificate
+## C1 English Certificate
 **RU:**
 Сертификат о прохождении курсов Английского языка от уровня B2 (Upper-Intermediate) до C1 (Advanced). Продолжительность курсов 8 месяцев, на протяжении которых было 64 урока, каждый по 2 академических часа.
 
