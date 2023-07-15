@@ -1,3 +1,16 @@
+## School 21 Bootcamp
+**RU:**
+Прошел месячный буткамп в [Школе 21](https://21-school.ru/ "Сайт Школы 21"), который представляет собой месяц интенсивного full-time обучения в кампусе школы по методике peer-to-peer, групповых проектов и экзаменов. Занял 1-е место в своем отряде, который состоял из 147 человек. Успешно сдал 14 персональных и 2 групповых проекта, а также успешно прошел 3 экзамена.
+
+**EN:**
+I completed the School 21 boot camp (a franchise of [École 42](https://42.fr/en/homepage/ "École 42 website")). The boot camp is a month-long full-time education program conducted on the school campus, utilizing the peer-to-peer method, group and personal projects. I took first place in my tribe, which consisted of 147 people. I successfully completed 14 personal projects and 2 group projects, and passed 3 exams.
+
+<div style="display: flex">
+    <img src="School 21 Profile.png" />
+    <img src="School 21 Projects.png" />
+    <img src="School 21 Tribes.png" />
+</div>
+
 ## Школа Разработки Интерфейсов
 **RU:**
 Чтобы попасть в школу я прошёл отбор состоящий из тестовых задач и алгоритмического интервью (в школу поступило 75 человек из 4000 проходивших тестовые задачи). Школа состояла из двух этапов. В первом, на протяжении 2-х месяцев нас учили лекторы и менторы из Яндекса. Во втором в формате хакатона мы работали над проектами.
